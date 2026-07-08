@@ -1,0 +1,17 @@
+{
+  "name": "רכז תורן — האוניברסיטה הפתוחה",
+  "short_name": "רכז תורן",
+  "description": "משחק פיקסל-ארט של מחלקת האירועים",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#16265c",
+  "theme_color": "#16265c",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
